@@ -1,0 +1,13 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.MyTwitter" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/blue</item>
+        <item name="colorPrimaryDark">@color/black</item>
+        <item name="colorAccent">@color/blue</item>
+        <!--Set status bar color-->
+        <item name="android:statusBarColor">@color/extraExtraLightGray</item>
+        <!--Set status bar text color-->
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>

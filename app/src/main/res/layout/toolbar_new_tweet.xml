@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="?android:attr/actionBarSize"
+    android:background="@color/extraExtraLightGray"
+    app:contentInsetStart="0dp"
+    app:title=" ">
+
+    <Button
+        android:id="@+id/btnTweet"
+        android:layout_width="wrap_content"
+        android:layout_height="33dp"
+        android:layout_alignParentEnd="true"
+        android:layout_gravity="end"
+        android:layout_marginTop="15dp"
+        android:layout_marginEnd="15dp"
+        android:background="@drawable/layout_shape_round_blue"
+        android:text="Tweet"
+        android:textAllCaps="false"
+        android:textColor="@color/extraExtraLightGray"
+        tools:ignore="TouchTargetSizeCheck" />
+
+</android.support.v7.widget.Toolbar>

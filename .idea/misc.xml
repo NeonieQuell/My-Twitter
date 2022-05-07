@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/drawable-v24/ic_globe_outline.xml" value="0.331" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/drawable-v24/ic_home_inactive_outline.xml" value="0.2365" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/drawable-v24/ic_location_outline.xml" value="0.2365" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/drawable-v24/ic_messages_active_outline.xml" value="0.2365" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/drawable-v24/ic_new_tweet_globe.xml" value="0.2365" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/drawable-v24/ic_new_tweet_location.xml" value="0.2365" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/drawable-v24/ic_new_tweet_poll.xml" value="0.2365" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/drawable-v24/ic_notifs_inactive_outline.xml" value="0.2365" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/drawable-v24/ic_poll_outline.xml" value="0.331" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/drawable-v24/ic_search_active_outline.xml" value="0.2365" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/drawable-v24/ic_search_outline1.xml" value="0.2365" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/drawable-v24/ic_tweet_like_outline.xml" value="0.331" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/drawable-v24/ic_tweet_reply_outline.xml" value="0.331" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/drawable-v24/ic_tweet_retweet_outline.xml" value="0.331" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/drawable-v24/ic_twitter_blue.xml" value="0.331" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/drawable-v24/ic_twitter_toolbar.xml" value="0.2365" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/drawable-v24/layout_edittext__round_no_border.xml" value="0.24" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/drawable-v24/layout_edittext_border.xml" value="0.2465" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/drawable-v24/layout_edittext_round_border.xml" value="0.2695" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/drawable-v24/layout_edittext_round_no_border.xml" value="0.24" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/drawable-v24/layout_shape_round_light_gray_border.xml" value="0.2695" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/drawable-v24/sample.xml" value="0.2365" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/drawable-v24/selector_toolbar.xml" value="0.24" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/drawable/border_line.xml" value="0.2365" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/drawable/ic_add_circle_outline.xml" value="0.286" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/drawable/ic_back_arrow_outline.xml" value="0.286" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/drawable/ic_button_close_outline.xml" value="0.2365" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/drawable/ic_check_circle.xml" value="0.331" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/drawable/ic_check_circle1.xml" value="0.331" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/drawable/ic_check_circle_blue_outline.xml" value="0.331" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/drawable/ic_close_outline.xml" value="0.286" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/drawable/ic_compose_tweet_outline.xml" value="0.2365" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/drawable/ic_gallery_outline.xml" value="0.331" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/drawable/ic_gif_outline.xml" value="0.331" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/drawable/ic_home_active_outline.xml" value="0.2365" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/drawable/ic_home_outline.xml" value="0.2365" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.331" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/drawable/ic_messages_inactive_outline.xml" value="0.331" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/drawable/ic_messages_outline.xml" value="0.2365" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/drawable/ic_new_tweet_button_close.xml" value="0.2365" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/drawable/ic_new_tweet_gallery.xml" value="0.2365" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/drawable/ic_new_tweet_gif.xml" value="0.2365" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/drawable/ic_notifs_active_outline.xml" value="0.2365" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/drawable/ic_notifs_outline.xml" value="0.2365" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/drawable/ic_search_inactive_outline.xml" value="0.331" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/drawable/ic_search_outline.xml" value="0.2365" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/drawable/ic_tweet_reply_outline.xml" value="0.331" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/drawable/ic_twitter.xml" value="0.2365" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/drawable/ic_twitter_white.xml" value="0.331" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/drawable/ic_twitter_white_outline.xml" value="0.2465" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/drawable/layout_alert_dialog_round_white.xml" value="0.331" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/drawable/layout_button_round_black.xml" value="0.331" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/drawable/layout_edittext_no_border.xml" value="0.331" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/drawable/layout_shape_round_black.xml" value="0.331" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/drawable/layout_shape_round_blue.xml" value="0.331" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/drawable/layout_shape_round_extralightgray.xml" value="0.331" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/drawable/layout_toast_black.xml" value="0.331" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/drawable/new_tweet_button_tweet_layout.xml" value="0.2365" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/drawable/new_tweet_edittext_layout.xml" value="0.2365" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/drawable/sample.xml" value="0.2365" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/drawable/selector_nav_button_home.xml" value="0.331" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/drawable/selector_nav_button_icon.xml" value="0.2365" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/drawable/selector_nav_button_messages.xml" value="0.331" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/drawable/selector_nav_button_notifs.xml" value="0.331" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/drawable/selector_nav_button_search.xml" value="0.331" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/layout/activity_create_account.xml" value="0.25416666666666665" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/layout/activity_fragment_home.xml" value="0.36666666666666664" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/layout/activity_fragment_messages.xml" value="0.36666666666666664" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/layout/activity_fragment_notifs.xml" value="0.36666666666666664" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/layout/activity_fragment_search.xml" value="0.36666666666666664" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/layout/activity_fragment_search1.xml" value="0.36666666666666664" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/layout/activity_front.xml" value="0.25416666666666665" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/layout/activity_log_in.xml" value="0.36666666666666664" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/layout/activity_main.xml" value="0.36102564102564105" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/layout/activity_new_tweet.xml" value="0.25416666666666665" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/layout/activity_search.xml" value="0.36666666666666664" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/layout/dialog.xml" value="0.36666666666666664" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/layout/layout_loading_dialog.xml" value="0.358695652173913" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/layout/layout_search_item.xml" value="0.5" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/layout/layout_tweet_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/layout/toolbar.xml" value="0.36666666666666664" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/layout/toolbar_fragment_search.xml" value="0.36666666666666664" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/layout/toolbar_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/layout/toolbar_new_tweet.xml" value="0.36666666666666664" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/layout/toolbar_search.xml" value="0.36666666666666664" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/layout/toolbar_search1.xml" value="0.36666666666666664" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/layout/toolbar_search2.xml" value="0.36666666666666664" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/layout/tweet_item.xml" value="0.67" />
+        <entry key="..\:/ProjectLocations/AndroidStudioProjects/MyTwitter/app/src/main/res/menu/bottom_navigation.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

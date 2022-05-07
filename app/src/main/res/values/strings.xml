@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Twitter</string>
+
+    <!--Java Strings-->
+    <string name="message_no_internet">No internet connection available</string>
+    <string name="message_server_unreachable">Server Unreachable</string>
+    <string name="message_fields_incomplete">Fields Incomplete</string>
+</resources>

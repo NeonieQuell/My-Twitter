@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/extraExtraLightGray"
+    tools:context=".NewTweetActivity">
+
+    <include
+        android:id="@+id/toolbar"
+        layout="@layout/toolbar_new_tweet" />
+
+    <android.support.v4.widget.Space
+        android:id="@+id/space"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_below="@id/toolbar" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/horizontalLine"
+        android:layout_below="@id/space"
+        android:paddingStart="15dp"
+        android:paddingEnd="15dp">
+
+        <ImageView
+            android:id="@+id/userImage"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:background="@mipmap/ic_launcher_round" />
+
+        <EditText
+            android:id="@+id/etTweetMsg"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginStart="15dp"
+            android:background="@drawable/layout_edittext_no_border"
+            android:ems="10"
+            android:gravity="top"
+            android:hint="What's happening?"
+            android:importantForAutofill="no"
+            android:inputType="textMultiLine"
+            android:paddingTop="7dp"
+            android:textColorHint="@color/darkGray"
+            android:textSize="17sp" />
+
+    </LinearLayout>
+
+    <View
+        android:id="@+id/horizontalLine"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_above="@id/layoutTweetVisibility"
+        android:background="@color/extraLightGray" />
+
+    <LinearLayout
+        android:id="@+id/layoutTweetVisibility"
+        android:layout_width="match_parent"
+        android:layout_height="53dp"
+        android:layout_above="@id/horizontalLine1"
+        android:orientation="horizontal"
+        android:paddingTop="15dp"
+        android:paddingBottom="15dp">
+
+        <ImageButton
+            android:id="@+id/imgBtnVisibility"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginStart="23dp"
+            android:background="@null"
+            app:srcCompat="@drawable/ic_globe_outline"
+            tools:ignore="TouchTargetSizeCheck,SpeakableTextPresentCheck" />
+
+        <TextView
+            android:id="@+id/txtVisibility"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginStart="5dp"
+            android:text="Everyone can reply"
+            android:textColor="@color/blue"
+            android:textSize="13sp"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+    <View
+        android:id="@+id/horizontalLine1"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_above="@id/layoutTweetOptions"
+        android:background="@color/extraLightGray" />
+
+    <LinearLayout
+        android:id="@+id/layoutTweetOptions"
+        android:layout_width="match_parent"
+        android:layout_height="53dp"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal"
+        android:paddingTop="15dp"
+        android:paddingBottom="15dp">
+
+        <ImageButton
+            android:id="@+id/imgBtnGallery"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:background="@null"
+            app:srcCompat="@drawable/ic_gallery_outline"
+            tools:ignore="TouchTargetSizeCheck,SpeakableTextPresentCheck" />
+
+        <ImageButton
+            android:id="@+id/imgBtnGIF"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="40dp"
+            android:background="@null"
+            app:srcCompat="@drawable/ic_gif_outline"
+            tools:ignore="TouchTargetSizeCheck,SpeakableTextPresentCheck" />
+
+        <ImageButton
+            android:id="@+id/imgBtnPoll"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="40dp"
+            android:background="@null"
+            app:srcCompat="@drawable/ic_poll_outline"
+            tools:ignore="TouchTargetSizeCheck,SpeakableTextPresentCheck" />
+
+        <ImageButton
+            android:id="@+id/imgBtnLocation"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="40dp"
+            android:background="@null"
+            app:srcCompat="@drawable/ic_location_outline"
+            tools:ignore="TouchTargetSizeCheck,SpeakableTextPresentCheck" />
+
+    </LinearLayout>
+
+</RelativeLayout>
